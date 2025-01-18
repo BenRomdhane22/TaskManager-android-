@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bordure avec la couleur #6200EE -->
+    <stroke
+        android:color="#000000"
+        android:width="4px"/>   <!-- Largeur de la bordure -->
+
+    <!-- Optionnel, pour arrondir légèrement les coins -->
+    <corners android:radius="1dp"/>
+</shape>
